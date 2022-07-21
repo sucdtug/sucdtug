@@ -8,4 +8,5 @@
 
 ## Links:
 - https://www.linkedin.com/in/titus-chew-0313b521b/
+- https://open.kattis.com/users/tituschew
 - https://utdcus.itch.io/
