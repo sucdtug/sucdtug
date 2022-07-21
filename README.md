@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @sucdtug
-- 🌱 I’m currently studying Computer Science
+# Intro
+- Prospective Student pursuing Bachelor of Computing in Computer Science at National University of Singapore
 
-<!---
-sucdtug/sucdtug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills:
+- VBA/Excel
+- c++
+- Unity
+
+## Links:
+- https://www.linkedin.com/in/titus-chew-0313b521b/
+- https://utdcus.itch.io/
